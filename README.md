@@ -22,7 +22,10 @@ Each user has private data that cannot be accessed by other users.
 
 ## Database Diagram
 
+
+
 ![Database Diagram](public/sleep-table.png)
+
 
 # Setup Instructions
 
