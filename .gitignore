@@ -1,0 +1,13 @@
+venv/
+env/
+.venv/
+Pipfile.lock
+
+instance/
+*.db
+*.sqlite3
+
+__pycache__/
+*.pyc
+
+.env
