@@ -88,8 +88,6 @@ POST /signup
 ```bash
 POST /login
 ```
-## Add Authorization Header
-Important for login
 
 # 4: Create Sleep Entry
 
