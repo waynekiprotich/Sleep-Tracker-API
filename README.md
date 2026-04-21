@@ -37,12 +37,17 @@ cd Workout-API
 ```
 
 ## 2. Create Virtual Environment
-
+1.mac/linux
 ```bash
 python -m venv .venv
-source .venv/bin/activate   # Mac/Linux
+source .venv/bin/activate   
 ```
-## 3. Install Dependencies
+2.windows
+```bash
+python -m venv .venv
+.venv\Scripts\activate
+```
+
 
 ```bash
 pip install -r requirements.txt
